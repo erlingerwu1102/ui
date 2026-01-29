@@ -1,0 +1,13 @@
+Flask==2.3.3
+Flask-Cors>=4.0.0
+requests>=2.31.0
+numpy>=1.26.0
+scipy>=1.11.0
+python-dotenv>=1.0.0
+SQLAlchemy>=2.0.0
+Flask-SocketIO>=6.2.0
+python-socketio>=5.9.0
+eventlet>=0.33.0
+python-json-logger>=2.0.0
+gunicorn>=20.1.0
+marshmallow>=3.20.0

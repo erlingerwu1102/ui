@@ -1,0 +1,9 @@
+﻿pybullet>=3.2.7
+torch>=2.2.0; python_version>='3.8'
+# Optional physics / ML packages for experiments# Optional / heavy dependencies (install only if needed)
+# Physics simulation (optional)
+pybullet>=3.0.8
+# Deep learning frameworks used in notebooks (optional)
+torch>=2.2.0
+# TensorFlow not required by backend; add only if using TF models
+# tensorflow>=2.14.0
