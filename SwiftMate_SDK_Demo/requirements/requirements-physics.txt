@@ -1,4 +1,0 @@
-# Optional heavy physics / simulation dependencies
-pybullet==3.2.5
-# If you need GUI for pybullet on a desktop, consider installing:
-# pip install pybullet-gui  (if available for your platform)
